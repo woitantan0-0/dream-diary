@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  background-color: #000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.yume_nikki_wapper {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.yume_contents {
+  padding: 10px;
+  text-align: left;
+  max-width: 700px;
+}
+
+.yume_content {
+  color: #fff;
+}
+
+.yume_content:hover {
+  color: #bf0000;
+}
+
+.search_div {
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+.input {
+  width: 70%;
+}
+
+.search_img {
+  height: 50px;
+  width: 60px;
+}
+
+.search {
+  display: inline;
+}
